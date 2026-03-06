@@ -11,4 +11,11 @@ Static sites are great for:
     - Documentation
 
 
+### HTML
+The primary output of a static site generator is HTML (HyperText Markup Language), because HTML contains all the content of a web page.
 
+HTML is a simple language for structuring content. HTML is a tree-like structure where each "tag" (e.g. <p>, the bits enclosed in angle brackets) can contain other tags, and the whole thing is enclosed in an outermost <html> tag.
+
+### CSS
+
+CSS (Cascading Style Sheets) is another "not-really-a-programming-language" that styles HTML elements. It's a way to dress up your HTML with colors, fonts, responsive layouts, animations, etc.
